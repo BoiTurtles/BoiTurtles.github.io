@@ -12,7 +12,11 @@
 background-color: #273738;
 color: white;
 text-align: center;
-
+display: inline-block;
+text-align: center;
+padding: 15px 32px;
+border-style: solid;
+border-color: rgb(32, 40, 45);
 }
 
 
