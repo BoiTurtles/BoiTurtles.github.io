@@ -1,0 +1,23 @@
+.innerheader
+{ 
+    width:100%;
+    height: 50px;
+    background-color: #1b2e2f;
+    color: white;
+    display: block;
+}
+
+.buttonStyle1
+{
+background-color: #273738;
+color: white;
+text-align: center;
+
+}
+
+
+*{
+    margin:0;
+    padding:0;
+}
+
