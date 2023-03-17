@@ -3,3 +3,16 @@ body
     background-color: darkslategrey;
     color: white;
 }
+
+.divCenter{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding-bottom: 55%;
+}

@@ -1,4 +1,8 @@
+
 # BoiTurtles.github.io
+
 Website practice!
 
-Link to the website: https://boiturtles.github.io/
+Website is very ugly and bad!
+
+Link to the website: <https://boiturtles.github.io/>
