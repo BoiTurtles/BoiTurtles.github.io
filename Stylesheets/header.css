@@ -19,6 +19,17 @@ border-style: solid;
 border-color: rgb(32, 40, 45);
 }
 
+.buttonStyle1:hover{
+    background-color: #141b1d;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 32px;
+    border-style: solid;
+    border-color: rgb(32, 40, 45);
+    cursor: pointer;
+}
 
 *{
     margin:0;
