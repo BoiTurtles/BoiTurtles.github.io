@@ -17,8 +17,25 @@ body
 }
 
 .circleButton:hover{
-    background-color: #141b1d;
+    background-color: darkslategrey;
     color: rgba(255, 255, 255, 0.788);
     cursor: pointer;
+}
+
+.buttonList{
+    padding-top: 50px;
+    overflow: auto;
+    white-space: nowrap;
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    padding-right: 20px;
+}
+
+.bListOverflow{
+    overflow: auto;
+    white-space: nowrap;
+    display: inline-block;
 }
 
